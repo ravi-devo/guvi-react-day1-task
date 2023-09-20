@@ -1,0 +1,14 @@
+.header-class{
+    flex: 2;
+    border-radius: 0.8rem 0.8rem 0 0;
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid grey;
+}
+
+.free{
+    color: grey;  
+}
